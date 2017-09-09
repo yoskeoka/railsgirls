@@ -12,6 +12,9 @@ gem 'rails', '~> 5.1.4'
 # 写真をアップロードする機能
 gem 'carrierwave'
 
+# 認証
+gem 'devise'
+
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
